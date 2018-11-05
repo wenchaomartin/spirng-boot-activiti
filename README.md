@@ -1,7 +1,7 @@
 # spirng-boot-activiti
  [office document](https://spring.io/blog/2015/03/08/getting-started-with-activiti-and-spring-boot)   
 
-spring document demo  
+## spring document demo  
 note the spring.activiti in the appliaction.properties  
 126mail password is grant code not the password of the mail  
 
